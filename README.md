@@ -2,7 +2,10 @@
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning about coding
 - 💞️ I’m looking to collaborate on different projects
-- 📫 How to reach me :- linkedin :ISHEMA NKERABAHIZI Love, skype: ISHEMA NKERABAHIZI Love, email:ishemalove@gmail.com
+- 📫 How to reach me :
+- - linkedin :ISHEMA NKERABAHIZI Love,
+  - skype: ISHEMA NKERABAHIZI Love,
+  - email:ishemalove@gmail.com
   
 
 <!---
