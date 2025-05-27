@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @Ishemalove
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning about coding
-- 💞️ I’m looking to collaborate on different projects
-- 📫 How to reach me :
-- - linkedin :ISHEMA NKERABAHIZI Love,
-  - skype: ISHEMA NKERABAHIZI Love,
-  - email:ishemalove@gmail.com
-  
+👋 Hi, I’m Love
+I’m interested in learning new things
+I’m currently learning about coding
+I’m looking to collaborate on different projects
+
 
 <!---
 Ishemalove/Ishemalove is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
