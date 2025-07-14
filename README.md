@@ -37,13 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Ishemalove&show_icons=true&theme=radical" alt="stats" />
 </p>
 
----
 
-### 📈 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishemalove&layout=compact&theme=tokyonight" alt="languages" />
-</p>
 
 ---
 
