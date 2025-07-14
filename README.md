@@ -9,11 +9,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 I'm currently studying **Software Programming and Embedded Systems** at Rwanda Coding Academy.  
-- 🌱 I’m passionate about education, open source, and building meaningful tech tools like **SafeLearn** and **E-legal**.  
-- 🏆 Awarded among the **best performing girls** in Rwanda (2023) by *First Lady Jeannette Kagame*.  
-- 💬 Ask me about anything in Python, C++, Java, React, or PostgreSQL.  
-- 🌍 I love photography, sunsets, basketball, and inspiring others through tech.  
+- 🎓 I'm currently studying **Software Programming and Embedded Systems** at Rwanda Coding Academy.   
 - 📫 How to reach me: **ishemalove@gmail.com**  
 - 🌐 My portfolio: [https://love-nkerabahizi.vercel.app](https://love-nkerabahizi.vercel.app)
 
@@ -48,12 +44,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishemalove&layout=compact&theme=tokyonight" alt="languages" />
 </p>
-
----
-
-### 💡 Quote of the Day
-> “When you want something, all the universe conspires in helping you to achieve it.”  
-> — *Paulo Coelho, The Alchemist*
 
 ---
 
